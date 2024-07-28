@@ -1,2 +1,3 @@
 # AI가 나와 닮은 대통령을 찾아 줍니다.
 # 급조했습니다... 죄송합니다...
+# https://zingy-dango-ab4e75.netlify.app/   웹버전입니다.
